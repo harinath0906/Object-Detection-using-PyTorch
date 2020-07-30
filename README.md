@@ -1,4 +1,4 @@
-# Object Detection using PyTorch
+# Wheat Head Detection using PyTorch
 
 This is a PyTorch implementation of FasterRCNN using Resnet50 backbone. We will also leverage the pretrained model available in PyTorch. Additional reading: https://arxiv.org/abs/1506.01497
 
